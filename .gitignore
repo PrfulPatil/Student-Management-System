@@ -1,1 +1,11 @@
-/bin/
+# Ignore compiled Java class files
+*.class
+
+# Ignore Eclipse and IntelliJ project files
+.classpath
+.project
+.settings/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
